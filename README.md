@@ -39,3 +39,5 @@ Any feedback is highly appreciated.
 2. Select the base as `production` and the compare as `staging` (or `staging` and `master`, respectively).
 3. Fill the title and the description fields.
 4. All checks should have passed and after that click "Merge pull request" button.
+
+<img alt="Ghost logo" src="https://googledrive.com/host/0B7tNkEBh3dIna3pCcVVsa2tPVlk/title.png" />
