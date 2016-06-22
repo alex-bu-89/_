@@ -1,4 +1,4 @@
-# _helpers
+# Git workflow
 
 This workflow is only a proposal and needs to be improve over time.
 Any feedback is highly appreciated.
