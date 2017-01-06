@@ -1,6 +1,6 @@
 # Git workflow
 
-### Normal workflow
+## Normal workflow
 
 1. Create your branch and build your feature
 
@@ -25,7 +25,7 @@
 
   * `git push origin my_feature_branch:master `
 
-### Workflow for staging and production
+## Workflow for staging and production
 
 1. Choose some repository and click the "New pull request" button.
 2. Select the base as `production` and the compare as `staging` (or `staging` and `master`, respectively).
