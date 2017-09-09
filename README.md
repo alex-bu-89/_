@@ -21,8 +21,13 @@
   * `git push origin my_feature_branch` (if you did rebase before use `-f`)
 
 4. Create your PR on github.
-5. Now, you can merge to master
 
+5. When your PR has been approved, you can squash all your commits		 
+  
+  * `git rebase -i HEAD~3 (3 being the number of commits you want to squash)`		
+  * `git push origin my_feature_branch` (if you did rebase before use `-f`)
+
+6. Now, you can merge to master
   * `git push origin my_feature_branch:master `
 
 ## Workflow for staging and production
